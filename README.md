@@ -1,4 +1,4 @@
-# Math_fundamental for INFO 5604
+# Math_fundamental reference for INFO 5604
 
 ## List of reference that I think is necessary
 <p>
@@ -19,7 +19,8 @@
 <br><br>
 ## My milestonr
 <p>
+  
 ### Professor Gilbert Strang: Done (Spring 2021)<br>
 ### 3Blue1Brown: Done (Fall 2020)<br>
-### Kilian Weinberger: Cornell CS4780 course: <b>On-going</b> (Summer 2021)<br>
+  ### Kilian Weinberger: Cornell CS4780 course: <u><b>On-going</b></u> (Summer 2021)<br>
 ### Andrew Ng: Stanford CS229: <b>On-going</b> (Summer 2021)<br>
